@@ -1,2 +1,6 @@
 # useful-links
-Collection of all the useful links related to coding/design/anything else
+Collections of all the useful links related to coding/design/anything else
+
+# classification
+* Design
+* Documents
