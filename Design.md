@@ -14,3 +14,5 @@
 ## Fonts
 * [Google Fonts](https://fonts.google.com/)
 * [Adobe Typekit](https://typekit.com/)
+## Animation
+* [Lottie](http://airbnb.io/lottie/) - The animation (made by AE) effects provided by Airbnb, for Web, Android, iOS.
