@@ -7,6 +7,7 @@
 
 ## Tools
 * [Color tool](https://material.io/tools/color/#!/?view.left=0&view.right=0)
+* [Cool Background](https://coolbackgrounds.io/) - Generate beautiful background for your website.
 
 # Resource
 ## Pics
